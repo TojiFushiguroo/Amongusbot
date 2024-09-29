@@ -136,4 +136,4 @@ async def choisir_salon(ctx):
     await detect_and_select_vocal_channel(ctx.guild)
 
 # Lancer le bot avec le token de votre bot Discord
-bot.run('MTI4OTg5NzMzOTA5NTYxMzQ2MQ.GV68AP.d3TlQ9MKdo9-JBo0JbqaQt3BsfN3vO9ZjtUtU4')
+bot.run('Token à changé ici')
